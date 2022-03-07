@@ -28,7 +28,7 @@ public class JsonReader : MonoBehaviour
     public TextMeshPro TextinScreen; //Text reference to load the input 
     public bool isChangeColor;  
     private Color ColorData;  //to store the Hex data
-    string ChoosedColorHexValue, ChoosedColorName; 
+    string ChoosedColorHexValue, ChoosedColorName;
     
     void Start()
     {
